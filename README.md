@@ -3,7 +3,7 @@ Project Title: PepsiCo Plant KPI Dashboard – Manufacturing Efficiency & Sustai
 
 Short Description / Purpose: This Power BI dashboard is designed to visualize and monitor key performance indicators (KPIs) for PepsiCo's manufacturing plant. It enables stakeholders and plant managers to track year-on-year operational performance, sustainability metrics, and resource utilization—helping drive data-based decisions for improving efficiency and reducing wastage.
 
-Tech Stack (with examples) 🟡 Power BI: Used for data modeling, DAX calculations, and creating interactive visualizations 📗 Excel/CSV: Used as the source format for raw plant data exports 🐙 GitHub: Used for version control and project sharing Example: Used Power BI to build visuals with dynamic filters (month/year) and created DAX measures to calculate AOP vs Actual variance, technical availability, and area-wise downtime summaries.
+Tech Stack (with examples) 🟡 Tableue: Used for data modeling, DAX calculations, and creating interactive visualizations 📗 Excel/CSV: Used as the source format for raw plant data exports 🐙 GitHub: Used for version control and project sharing Example: Used Power BI to build visuals with dynamic filters (month/year) and created DAX measures to calculate AOP vs Actual variance, technical availability, and area-wise downtime summaries.
 
 Data Source A. Internal Plant Data exported from manufacturing systems in Excel/CSV format B. Data range includes three years: 2022, 2023, and 2024 C. Key metrics covered:
 
