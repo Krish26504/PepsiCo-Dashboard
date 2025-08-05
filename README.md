@@ -1,4 +1,4 @@
-<img width="1307" height="735" alt="image" src="https://github.com/user-attachments/assets/e379618e-0e9d-48c2-a87b-832e3849fe53" /># PepsiCo-Dashboard
+# PepsiCo-Dashboard
 Project Title: PepsiCo Plant KPI Dashboard – Manufacturing Efficiency & Sustainability Tracker
 
 Short Description / Purpose: This Power BI dashboard is designed to visualize and monitor key performance indicators (KPIs) for PepsiCo's manufacturing plant. It enables stakeholders and plant managers to track year-on-year operational performance, sustainability metrics, and resource utilization—helping drive data-based decisions for improving efficiency and reducing wastage.
